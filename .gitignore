@@ -1,0 +1,99 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# MemoryCaptures can get excessive in size.
+# They also could contain extremely sensitive data
+/[Mm]emoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# ===============
+# Visual Studio #
+# ===============
+
+# Files and folders to ignore from Visual Studio
+# See https://github.com/github/gitignore/blob/master/Unity.gitignore
+
+# User-specific files
+*.userprefs
+*.sln
+*.suo
+*.ntvs*
+*.unityproj
+*.booproj
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# ===============
+# macOS specific #
+# ===============
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# =========================================== #
+# Remove the '#' prefix to uncomment a section #
+# =========================================== #
+
+# ==========
+# Windows #
+# ==========
+
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# ============================================= #
+# Remove the '#' prefix to uncomment a pattern   #
+# ============================================= #
+
+# ================
+# Unity Packages #
+# ================
+
+# Uncomment this line if you want to ignore your custom Unity packages.
+#*/Packages/
+
+# ===============
+# Unity Hub #
+# ===============
+
+# Uncomment this line if you want to ignore the Unity Hub's ProjectPrefs file.
+#*ProjectSettings/ProjectPrefs.asset
+
+# ============
+# Miscellaneous #
+# ============
+
+# Ignore any .gitignore files
+!.gitignore
+
+# Ignore JetBrains Rider project files
+*.csproj
+
+# Ignore Visual Studio Code project files
+.vscode/
